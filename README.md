@@ -1,2 +1,2 @@
 # Data-Science-Projects-Python
-Completed Data Science Projects using Python
+This is a selection of completed Data Science Projects using Python.
